@@ -2,6 +2,9 @@
 
 <h2> 👋 Hey there! I'm Ayyoub</h2>
 
+With npm installed, just type
+<code>npx ayyoubouazza</code>
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
